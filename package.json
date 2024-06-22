@@ -1,16 +1,16 @@
 {
-  "name": "fancy-chat2",
-  "version": "0.0.1",
-  "description": "A simple chat client using socket.io",
-  "main": "index.js",
-  "author": "Grant Timmerman",
-  "private": true,
-  "license": "BSD",
-  "dependencies": {
-    "express": "^4.17.1",
-    "socket.io": "^4.1.2"
-  },
-  "scripts": {
-    "start": "node index.js"
-  }
+	"name": "w6",
+	"version": "0.0.1",
+	"description": "Assignment week 6",
+	"main": "index.js",
+	"author": "Yuna Hu",
+	"private": true,
+	"license": "BSD",
+	"dependencies": {
+		"express": "^4.17.1",
+		"socket.io": "^4.1.2"
+	},
+	"scripts": {
+		"start": "node index.js"
+	}
 }
